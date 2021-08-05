@@ -1,7 +1,6 @@
 # ShoppingListMVVM
 
 * [Kotlin] 
-* [Retrofit] 
 * [Kodein] 
 * [Coroutine] 
 * [Room] 
@@ -10,7 +9,6 @@
 
 
 [Kotlin]: <https://kotlinlang.org/>
-[Retrofit]: <https://square.github.io/retrofit//>
 [Room]: <https://developer.android.com/training/data-storage/room/>
 [LiveData]: <https://developer.android.com/topic/libraries/architecture/livedata/>
 [View Binding]: <https://developer.android.com/topic/libraries/view-binding/>
